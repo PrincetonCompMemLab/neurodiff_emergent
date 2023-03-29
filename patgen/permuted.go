@@ -11,7 +11,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/PrincetonCompMemLab/private-emergent/erand"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/erand"
 	"github.com/emer/etable/etensor"
 	"github.com/emer/etable/metric"
 	"github.com/goki/ki/ints"

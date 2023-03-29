@@ -7,9 +7,9 @@ package emer
 import (
 	"io"
 
-	"github.com/PrincetonCompMemLab/private-emergent/params"
-	"github.com/PrincetonCompMemLab/private-emergent/relpos"
-	"github.com/PrincetonCompMemLab/private-emergent/weights"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/params"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/relpos"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/weights"
 	"github.com/emer/etable/etensor"
 	"github.com/goki/ki/kit"
 	"github.com/goki/mat32"

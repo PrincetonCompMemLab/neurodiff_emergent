@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/PrincetonCompMemLab/private-emergent/efuns"
-	"github.com/PrincetonCompMemLab/private-emergent/evec"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/efuns"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/evec"
 	"github.com/emer/etable/etensor"
 	"github.com/emer/etable/minmax"
 	"github.com/goki/mat32"

@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"sort"
 
-	"github.com/PrincetonCompMemLab/private-emergent/erand"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/erand"
 	"github.com/emer/etable/etensor"
 )
 

@@ -1,4 +1,4 @@
-module github.com/PrincetonCompMemLab/private-emergent
+module github.com/PrincetonCompMemLab/neurodiff_emergent
 
 go 1.18
 

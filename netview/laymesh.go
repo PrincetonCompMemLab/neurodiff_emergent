@@ -5,7 +5,7 @@
 package netview
 
 import (
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
 	"github.com/emer/etable/etensor"
 	"github.com/goki/gi/gi3d"
 	"github.com/goki/ki/kit"

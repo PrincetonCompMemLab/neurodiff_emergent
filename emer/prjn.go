@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/PrincetonCompMemLab/private-emergent/params"
-	"github.com/PrincetonCompMemLab/private-emergent/prjn"
-	"github.com/PrincetonCompMemLab/private-emergent/weights"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/params"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/prjn"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/weights"
 	"github.com/goki/ki/kit"
 )
 

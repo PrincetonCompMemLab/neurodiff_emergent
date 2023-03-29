@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
 	"github.com/emer/etable/minmax"
 	"github.com/goki/gi/gi"
 	"github.com/goki/gi/gi3d"

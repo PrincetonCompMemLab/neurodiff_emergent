@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/PrincetonCompMemLab/private-emergent/erand"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/erand"
 	"github.com/goki/ki/kit"
 )
 

@@ -5,7 +5,7 @@
 package prjn
 
 import (
-	"github.com/PrincetonCompMemLab/private-emergent/evec"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/evec"
 	"github.com/emer/etable/etensor"
 	"github.com/goki/ki/ints"
 	"github.com/goki/mat32"
